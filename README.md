@@ -1,3 +1,3 @@
 # CM
-Configuration Management (Конфигурационное управление)
+Configuration Management (Конфигурационное управление);
 Практики РТУ МИРЭА
